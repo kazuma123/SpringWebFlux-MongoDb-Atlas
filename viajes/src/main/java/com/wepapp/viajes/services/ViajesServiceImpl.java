@@ -53,7 +53,6 @@ public class ViajesServiceImpl implements ViajesService {
             if (p.getUpdatedAt() != null) {
                 p.setUpdatedAt(new Date());
             }
-            
             p.setStart(viaje.getStart());
             p.setEnd(viaje.getEnd());
             p.setCountry(viaje.getCountry());
