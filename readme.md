@@ -1,11 +1,12 @@
 Descripcion:
+
   Tecnologias: Spring boot y SpringWeFlux
   BaaS: MongoDB Atlas
   Patron de diseño: MVC
   
   Ejecucion del proyecto:
+  
     1. Clone el proyecto en su computadora
-    
     2. Se esta usando java 11 y springboot 2.7
     3. Ejecutar el proyecto y probar las apis
 
