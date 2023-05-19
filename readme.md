@@ -1,8 +1,8 @@
 Descripcion:
 
-  Tecnologias: Spring boot y SpringWeFlux
-  BaaS: MongoDB Atlas
-  Patron de diseño: MVC
+  1. Tecnologias: Spring boot y SpringWeFlux
+  2. BaaS: MongoDB Atlas
+  1. Patron de diseño: MVC
   
   Ejecucion del proyecto:
   
