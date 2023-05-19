@@ -16,3 +16,7 @@ Swagger
 
 Ejemplo en Postman:
 ![image](https://github.com/kazuma123/viajes/assets/49696897/d3b782a3-e876-4fd2-9ddf-8667350bfe9d)
+
+Arquitectura:
+![image](https://github.com/kazuma123/viajes/assets/49696897/fdde818a-d074-4754-b4b0-a6b4e3a7bdb2)
+
